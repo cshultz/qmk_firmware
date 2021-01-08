@@ -1,0 +1,5 @@
+TAP_DANCE_ENABLE   = yes
+BOOTMAGIC_ENABLE   = lite
+UNICODE_ENABLE     = yes
+UNICODEMAP_ENABLE  = no
+COMBO_ENABLE       = yes
